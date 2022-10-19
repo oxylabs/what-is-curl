@@ -1,0 +1,1 @@
+curl --proxy proxy:port -U “username:password” https://jsonplaceholder.typicode.com/

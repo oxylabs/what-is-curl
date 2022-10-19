@@ -1,0 +1,1 @@
+curl -L https://google.com
