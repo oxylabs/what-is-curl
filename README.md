@@ -1,8 +1,8 @@
 # What is cURL and What Does It Mean
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=what-is-curl-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=what-is-curl&utm_campaign=banner&groupid=877)
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=what-is-curl&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
@@ -18,7 +18,7 @@ cURL (client URL) is an open-source command line tool, and a cross-platform libr
 
 This article gives you an overview of cURL.
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/what-is-curl). 
+For a detailed explanation, see our [blog post](https://oxylabs.io/blog/what-is-curl?utm_source=github&utm_medium=referral&utm_content=what-is-curl&groupid=877). 
 
 ## Sending requests
 
@@ -80,6 +80,6 @@ curl -u username:password https://jsonplaceholder.typicode.com/
 
 
 
-If you wish to learn more about cURL, see our [blog post](https://oxylabs.io/blog/what-is-curl).
+If you wish to learn more about cURL, see our [blog post](https://oxylabs.io/blog/what-is-curl?utm_source=github&utm_medium=referral&utm_content=what-is-curl&groupid=877).
 
 
